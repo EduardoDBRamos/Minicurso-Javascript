@@ -16,7 +16,7 @@ const css = `<style>
         #root{
             box-sizing: border-box;
             font-family: 'Press Start 2P', cursive;
-            background-color: #8e44ad;
+            background-color: #0984e3;
             min-width: 500px;
             width: 40vw;
             height: 65vh;
