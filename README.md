@@ -17,3 +17,8 @@ ___
 ## Aula 2 (commit = f264e26f1d69518c6c9c9ac596def6640d9acde7)
  - Apresentada o template de Tagged Template String
  - Components(Necessário instalar o styled.components no npm)
+
+## Aula 3 (commit = caca935b7b5ec3e5bfc5767522c93d953a8cfb9b)
+ - Adicionado personagem Bulbasaur
+ - Tecnica de Wrapper
+ - Alteracao das cores basicas para combinar com personagem.
