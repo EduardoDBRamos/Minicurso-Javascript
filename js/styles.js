@@ -14,14 +14,17 @@ const css = `<style>
         }
 
         #root{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
             box-sizing: border-box;
-            font-family: 'Press Start 2P', cursive;
-            background-color: #0984e3;
+            font-family: 'Noto Sans JP', sans-serif;
+            background-color: #3B3B98;
             min-width: 500px;
             width: 40vw;
             height: 65vh;
             text-align: center;
-            padding-top: 4rem;
+            padding-top: 1rem;
         }
 </style>`
 
