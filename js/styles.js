@@ -1,4 +1,10 @@
 const css = `<style>
+        :root {
+            --line-height: 10px;
+            --color-item: #F8EFBA;
+            --action-color: #58B19F;
+        }
+
         *{
             margin: 0;
             padding: 0;
@@ -21,7 +27,7 @@ const css = `<style>
             font-family: 'Noto Sans JP', sans-serif;
             background-color: #3B3B98;
             min-width: 500px;
-            width: 40vw;
+            width: 500px;
             height: 65vh;
             text-align: center;
             padding-top: 1rem;
